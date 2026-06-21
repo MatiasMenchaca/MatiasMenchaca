@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Estudiante de Programación Full Stack <br>
-📍 Villa de Soto, Córdoba, Argentina
+📍 Córdoba, Argentina
 </p>
 
 ---
